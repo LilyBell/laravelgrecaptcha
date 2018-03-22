@@ -29,7 +29,7 @@
                             {!! Form::textarea('messageBody', null, ['class' => 'form-control','required' => 'required', 'placeholder' => 'Message']) !!}
                         </div>
                         recaptcha box should be here
-                        <div class="g-recaptcha" data-sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"></div>
+                        <div class="g-recaptcha" data-sitekey="YOUR SITE KEY HERE"></div>
 
                         <div class="form-action">
                             {!! Form::submit('Submit', array('class' => 'btn btn-default')) !!}
