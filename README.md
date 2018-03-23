@@ -75,7 +75,7 @@ You will find two lines of code there.
 
 ```html
 <script src='https://www.google.com/recaptcha/api.js'></script>
-```
+``` 
 
 ```html
 <div class="g-recaptcha" data-sitekey="YOUR SITE KEY HERE"></div>
