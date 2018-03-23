@@ -1,6 +1,14 @@
 [![Build Status](https://travis-ci.org/LilyBell/laravelgrecaptcha.svg?branch=master)](https://travis-ci.org/LilyBell/laravelgrecaptcha) 
-![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&logo=github&label=Fork) 
-![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)
+
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&logo=github&label=Fork)](https://github.com/LilyBell/laravelgrecaptcha)
+
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/LilyBell/laravelgrecaptcha) 
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&logo=github&label=Stars)](https://github.com/LilyBell/laravelgrecaptcha) 
+[![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony.svg)](https://github.com/LilyBell/laravelgrecaptcha)
+[![OpenCollective](https://opencollective.com/aurelian/backers/badge.svg)](#backers) 
+
+
+
 
 
 
