@@ -85,7 +85,7 @@ reCaptcha challenge or a single validation e.g. A user registration form
 > **Single Use**
 
 ```Blade
-<!--- /resources/views/index.blade.php --->
+<!--- /resources/views/index.blade.php ---!>
 
 <script src='https://www.google.com/recaptcha/api.js'></script> 
 
@@ -109,8 +109,8 @@ reCaptcha challenge or a single validation e.g. A user registration form
 ```
 
 > **Global Use**
-```blade
-<!-- resources/views/app.blade.php -->
+```Blade
+<!-- resources/views/app.blade.php --!>
 <html>
 <head>
     <title>Google reCaptcha - Laravel 5.5 @yield('title')</title>
