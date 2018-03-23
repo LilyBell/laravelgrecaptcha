@@ -1,8 +1,12 @@
 [![Build Status](https://travis-ci.org/LilyBell/laravelgrecaptcha.svg?branch=master)](https://travis-ci.org/LilyBell/laravelgrecaptcha) 
 [![GitHub forks](https://img.shields.io/github/forks/LilyBell/laravelgrecaptcha.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/LilyBell/laravelgrecaptcha/network/)
 [![GitHub stars](https://img.shields.io/github/stars/LilyBell/laravelgrecaptcha.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LilyBell/laravelgrecaptcha/stargazers/)
+[![GitHub issues](https://img.shields.io/github/issues/LilyBell/laravelgrecaptcha.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+[![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony.svg)](https://github.com/LilyBell/laravelgrecaptcha)
+[![Latest Stable Version](https://poser.pugx.org/laravel/laravel/v/stable)](https://packagist.org/packages/laravel/laravel)
+[![Latest Stable Version](https://poser.pugx.org/google/recaptcha/v/stable)](https://packagist.org/packages/google/recaptcha)
 
- [![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony.svg)](https://github.com/LilyBell/laravelgrecaptcha)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)
 
 
 
