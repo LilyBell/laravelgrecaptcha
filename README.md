@@ -83,12 +83,10 @@ Where you put the first line of code depends entirely on whether or not you are 
 reCaptcha challenge or a single validation e.g. A user registration form
 
 > **Single Use**
-
 ```Blade
-<!--- /resources/views/index.blade.php ---!>
+<!-- /resources/views/index.blade.php -->
 
 <script src='https://www.google.com/recaptcha/api.js'></script> 
-
 <section id="contact" class="section-padding">
     <div class="container">
         <div class="row">
@@ -110,7 +108,7 @@ reCaptcha challenge or a single validation e.g. A user registration form
 
 > **Global Use**
 ```Blade
-<!-- resources/views/app.blade.php --!>
+<!-- resources/views/app.blade.php -->
 <html>
 <head>
     <title>Google reCaptcha - Laravel 5.5 @yield('title')</title>
