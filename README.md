@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/LilyBell/laravelgrecaptcha.svg?branch=master)](https://travis-ci.org/LilyBell/laravelgrecaptcha) 
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&logo=github&label=Fork)](https://github.com/LilyBell/laravelgrecaptcha)
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&logo=github&label=Fork)](https://github.com/LilyBell/laravelgrecaptcha/issues)
  [![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony.svg)](https://github.com/LilyBell/laravelgrecaptcha)
 
 
