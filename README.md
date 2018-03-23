@@ -3,11 +3,13 @@
 For quite some time now Google reCaptcha has been the most advanced and easy to use reCaptcha option available. In addition to keeping
 websites and forms safe from malicious software it is also being used to digitize text, annotate images and build machine learning data sets.
 
-This tutorial will require Laravel 5.5 and a Google reCaptcha site key. Please make sure you meet all the dependence [requirements](https://laravel.com/docs/5.5/installation) to create a
+This tutorial will require Laravel 5.5 and a Google reCaptcha site key. Please make sure you meet all the dependency [requirements](https://laravel.com/docs/5.5/installation) to create a
 Laravel 5.5 project.
 
-To begin open your terminal and navigate to the directory where you want to create your project. In my case since I am using the JetBrains IDE
-PhpStorm I am going to navigate to my project directory and create a new project with laravel. 
+To begin, open your terminal and navigate to the directory where you want to create your project. In my case since I am using the JetBrains IDE
+PhpStorm I am going to navigate to my project directory and create a new project with laravel. It's important to note that you don't have to use PhpStorm.
+There are many other viable options to develop Laravel projects including [Atom](https://atom.io), [Brackets](http://brackets.io), [Sublime](https://www.sublimetext.com), [Eclipse](https://www.eclipse.org) and [Netbeans](https://netbeans.org). 
+You can also use [vim](https://www.vim.org), [nano](https://www.nano-editor.org) or [emacs](https://www.gnu.org/software/emacs) if you prefer working from the command line. 
 
 ```Bash
 cd ~/PhpStormProjects && laravel new LaravelGreCaptcha && cd LaravelGreCaptcha/
@@ -22,7 +24,8 @@ The first thing we want to do is get a site key for the Google reCaptcha API.
 1. Click on the "Get reCaptcha" button at the top
 2. Fill in the form and check reCAPTCHA V2
 3. The form will expand and ask you to register the domains that are associated with this app.
-> **It is very important that you list all domains that your application might access the API from**
+
+> **It is very important to list all domains that your application might access the API from**
 > **Failure to do this will result in the API refusing requests from your application.**
 
 > When developing locally enter 127.0.0.1 for your domain
@@ -66,9 +69,8 @@ Now that we have our base template we can create the view that we are going to d
 </section>
 ```
 
-Now that you have the view where your reCaptcha challenge is going to live go back to the reCaptcha page in your browser
+Now that you have the view where your reCaptcha challenge is going to live, go back to the reCaptcha page in your browser
 and locate the section that says *Client Side Integration* 
-
 You will find two lines of code there.
 
 ```html
@@ -80,7 +82,7 @@ You will find two lines of code there.
 ```
 
 Where you put the first line of code depends entirely on whether or not you are going to use multiple instances of the
-reCaptcha challenge or a single validation e.g. A user registration form
+reCaptcha challenge or a single validation. E.G.: a user registration form
 
 > **Single Use**
 ```Blade
@@ -126,7 +128,7 @@ reCaptcha challenge or a single validation e.g. A user registration form
 ATTENTION
 You should only use one of the above options. Using both runs the risk of the reCaptcha challenge not functioning
 ```
-Success! The reCaptcha is now ready to use!
+Success! The reCaptcha is now ready for use!
 
 ![Imgur](https://i.imgur.com/TNiseSd.png)
 
