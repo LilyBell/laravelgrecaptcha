@@ -8,7 +8,7 @@
                     <div class="contact-info">
                         <h3>I'm a Google reCaptcha!</h3>
 
-                        <div class="g-recaptcha" data-sitekey="6LdNWk4UAAAAAEYU26mm1LU_5AiXVkcaxcntGl3G"></div>
+                        <div class="g-recaptcha" data-sitekey="YOUR SITE KEY HERE"></div>
 
                     </div>
                 </div>
