@@ -47,7 +47,7 @@ application wide dependencies.
 Now that we have our base template we can create the view that we are going to display our form and the Google reCaptcha in. 
 
 ```Blade
-<!--- /resources/views/index.blade.php --->
+<!-- /resources/views/index.blade.php -->
 
 <section id="contact" class="section-padding">
     <div class="container">
