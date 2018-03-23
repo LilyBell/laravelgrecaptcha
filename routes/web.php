@@ -13,10 +13,6 @@
 
 
 Route::get('/', function () {
-    return view('test');
+    return view('index');
 });
 
-Route::post('/contact', array(
-    'as' => 'contact',
-    'uses' => 'Form@contact'
-));
