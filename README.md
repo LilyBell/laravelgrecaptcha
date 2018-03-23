@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/LilyBell/laravelgrecaptcha.svg?branch=master)](https://travis-ci.org/LilyBell/laravelgrecaptcha)
+
 # Google reCaptcha in Laravel 5.5
 
 For quite some time now Google reCaptcha has been the most advanced and easy to use reCaptcha option available. In addition to keeping
