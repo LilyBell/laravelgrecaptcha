@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/LilyBell/laravelgrecaptcha.svg?branch=master)](https://travis-ci.org/LilyBell/laravelgrecaptcha) 
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/LilyBell/laravelgrecaptcha/network/)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LilyBell/laravelgrecaptcha//stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LilyBell/laravelgrecaptcha/stargazers/)
 
  [![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony.svg)](https://github.com/LilyBell/laravelgrecaptcha)
 
