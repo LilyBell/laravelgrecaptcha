@@ -6,7 +6,7 @@
 [![Latest Stable Version](https://poser.pugx.org/laravel/laravel/v/stable)](https://packagist.org/packages/laravel/laravel)
 [![Latest Stable Version](https://poser.pugx.org/google/recaptcha/v/stable)](https://packagist.org/packages/google/recaptcha)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)
+[Click here to support](https://www.patreon.com/lilybell)
 
 
 
